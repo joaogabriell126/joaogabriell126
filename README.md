@@ -40,8 +40,8 @@ TROQUE os campos entre <...> pelos seus dados.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=<SEU_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=79FF97" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SEU_USERNAME>&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaogabriell126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=79FF97" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriell126&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" height="170" />
 
 <br><br>
 
