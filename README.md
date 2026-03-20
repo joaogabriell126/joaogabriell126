@@ -20,6 +20,8 @@ TROQUE os campos entre <...> pelos seus dados.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050816,25:0b1020,50:11192e,75:0b1020,100:050816&section=header&reversal=false&text=%20&fontSize=0&animation=fadeIn" />
 
+<img src="./assets/cybercore-y2k.gif" width="100%" />
+
 # `root@joaogabriell126:~# ./init_profile`
 
 ```txt
