@@ -16,7 +16,7 @@ TROQUE os campos entre <...> pelos seus dados.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85;%3E+cmatrix+signal+detected...;%3E+starfall.exe+running...;%3E+accessing+%3CSEU_USERNAME%3E" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85+%E2%98%86+%E2%98%85;%3E+cmatrix+signal+detected...;%3E+starfall.exe+running...;%3E+accessing+%3CJOAOGABRIELL%3E" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050816,25:0b1020,50:11192e,75:0b1020,100:050816&section=header&reversal=false&text=%20&fontSize=0&animation=fadeIn" />
 
@@ -49,7 +49,7 @@ TROQUE os campos entre <...> pelos seus dados.
 │ alias    : joaogabriell126                                   │
 │ class    : Egenheiro de Software                             │
 │ status   : ONLINE                                            │
-│ focus    : Back-end                                          │
+│ focus    : My Girl ―୨୧˚                                      │
 └──────────────────────────────────────────────────────────────┘
 ```
 
