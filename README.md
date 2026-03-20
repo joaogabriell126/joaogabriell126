@@ -20,7 +20,7 @@ TROQUE os campos entre <...> pelos seus dados.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050816,25:0b1020,50:11192e,75:0b1020,100:050816&section=header&reversal=false&text=%20&fontSize=0&animation=fadeIn" />
 
-<img src="./assets/cybercore-y2k.gif" width="100%" />
+<img src="./assets/cybercore-y2k.gif" width="70%" />
 
 # `root@joaogabriell126:~# ./init_profile`
 
@@ -78,16 +78,16 @@ TROQUE os campos entre <...> pelos seus dados.
 ```
 ## `links.sys`
 
-<a href="<SEU_LINKEDIN>">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-teodosio-de-oliveira-lima-13854734a/" taget="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/linkedin-080b12?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
-<a href="<SEU_PORTFOLIO>">
+<a href="<SEU_PORTFOLIO>" taget="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/portfolio-080b12?style=for-the-badge&logo=firefoxbrowser&logoColor=79FF97" />
 </a>
-<a href="mailto:<SEU_EMAIL>">
+<a href="mailto:joaogabriell.code@gmail.com" taget="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/email-080b12?style=for-the-badge&logo=gmail&logoColor=FF7B72" />
 </a>
-<a href="<SEU_DISCORD_OU_OUTRO_LINK>">
+<a href="<SEU_DISCORD_OU_OUTRO_LINK>" taget="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/contact-080b12?style=for-the-badge&logo=discord&logoColor=C792EA" />
 </a>
 
